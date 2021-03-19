@@ -8,3 +8,4 @@ console.log(arr[len-1]);
 
 //var min = Math.min(...arr),max = Math.max(...arr);
 //console.log(min,max);
+console.log("hello");
