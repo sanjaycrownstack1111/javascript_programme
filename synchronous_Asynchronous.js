@@ -29,3 +29,5 @@ const fun1 = () =>{
     fun2();
     console.log('fun1 is ending');
 }
+
+fun1();
